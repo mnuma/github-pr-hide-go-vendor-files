@@ -1,6 +1,6 @@
-# Hide Go Carthage Files from Github Pull Requests
+# Hide iOS Carthage Files from Github Pull Requests
 
-Forked.  [Nosajool/github-pr-hide-go-vendor-files](https://github.com/Nosajool/github-pr-hide-go-vendor-files) 
+Forked.  [Nosajool/github-pr-hide-go-vendor-files](https://github.com/Nosajool/github-pr-hide-go-vendor-files)
 
 # Installation
 
